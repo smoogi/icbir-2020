@@ -100,7 +100,6 @@ For visualization, there are libraries such as Matplotlib and seaborn, amongst o
 - Python puts a significant emphasis on code readability by using white spaces and tabs for organizing purposes.
 - Python supports many paradigms, such as procedural, functional, object-oriented, and more, which makes it versatile.
 - Python has many implementations.
-The default and the most popular is CPython, which is written in C and Python itself.
 - Python is dynamically typed, which means data types are dynamically assigned to variables at creation based on the values.
 Data types can be modified on the fly by assigning new values.
 - Python is a programming language that supports garbage collection.
