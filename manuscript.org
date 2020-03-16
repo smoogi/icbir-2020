@@ -13,7 +13,7 @@ Thai-Nichi Institute of Technology, Bangkok, Thailand
 
 * Abstract
 
-This research is a comparative study between Python's data visualization libraries and business intelligence tools, including Microsoft's Power BI and Tableau Public.
+This research is a comparative study between Python's data visualization libraries and business intelligence tools, including Power BI and Tableau Public.
 In this study, we conduct a series of experiments to evaluate the data visualization capability of each chosen tool by performing related tasks on the targeted dataset.
 Each iteration of the experiment involves exploratory data analysis, feature engineering, and visualizing the dataset in useful formats.
 
@@ -51,11 +51,11 @@ In the modern days, analysts and researchers make use of specialized programs to
 These specialized programs are often called data visualization or business intelligence tools.
 Data visualization tools are designed and developed to make required data visualization tasks such as importing data, data preparation, exploratory data analysis, and visualizations more streamlined and convenient.
 
-In this research, we conduct a comparative study between Python programing language with its data analysis libraries and frameworks, Microsoft's PowerBI, and Tableau Public.
-Python is an open-source general-purpose programing language with significant data science and analytic ecosystem, while PowerBI and Tableau are business intelligence tools commonly used among professionals.
+In this research, we conduct a comparative study between Python programing language with its data analysis libraries and frameworks, Power BI Desktop, and Tableau Public.
+Python is an open-source general-purpose programing language with significant data science and analytic ecosystem, while Power BI Desktop and Tableau are business intelligence tools commonly used among professionals.
 
 Each of the tools, as mentioned earlier, has advantages over the others and disadvantages compared to the others.
-In this paper, we conduct a series of experiments by using Python, PowerBI, and Tableau Public to perform exploratory data analysis, feature engineering, and data visualization.
+In this paper, we conduct a series of experiments by using Python, Power BI Desktop, and Tableau Public to perform exploratory data analysis, feature engineering, and data visualization.
 
 This study considers performance, ease of usage, pricing, and various other features.
 Ultimately, our objective is to provide an up-to-date and reliable source of information that can help researchers, analysts, and business executives to decide which tool is more suitable for their purposes.
@@ -66,7 +66,7 @@ TBA
 
 * 3. Research methodology
 
-The comparative study of data visualization tools is carried out using Python, Microsoft's PowerBI, and Tableau to perform data visualization tasks on sample datasets in order to determine their performance and providing a complete analysis of their functionality.
+The comparative study of data visualization tools is carried out using Python, Power BI Desktop, and Tableau to perform data visualization tasks on sample datasets in order to determine their performance and providing a complete analysis of their functionality.
 
 While a specific dataset is not particularly important in this type of comparative study, it is advisable to evaluate each data visualization tool against the same dataset.
 For this research, we use /Olympic Sports and Medals (1896-2014) - Summer/ dataset.
@@ -100,8 +100,7 @@ For visualization, there are libraries such as Matplotlib and seaborn, amongst o
 - Python puts a significant emphasis on code readability by using white spaces and tabs for organizing purposes.
 - Python supports many paradigms, such as procedural, functional, object-oriented, and more, which makes it versatile.
 - Python has many implementations.
-- Python is dynamically typed, which means data types are dynamically assigned to variables at creation based on the values.
-Data types can be modified on the fly by assigning new values.
+- Python is dynamically typed, which means data types are dynamically assigned to variables at creation based on the values. Data types can be modified on the fly by assigning new values.
 - Python is a programming language that supports garbage collection.
 - Python has an open-source license and is supported by Python Software Foundation.
 - Python license indicates that individuals and organizations can use it free of charges.
@@ -148,7 +147,7 @@ Among Python visualization libraries, Matplotlib and Seaborn are particularly po
 Python offered excellent performance compared to other data visualization tools we used in this comparative study, especially when handling a large dataset.
 For example, using PySpark library on Apache Spark makes manipulating a dataset containing millions of records relatively simple.
 
-Python, with its ecosystem, offers superior flexibility over PowerBI and Tableau.
+Python, with its ecosystem, offers superior flexibility over Power BI Desktop and Tableau.
 For most data visualization tasks, the only limits to Python's capabilities are the abilities of developers.
 
 *** 3.1.5 Ease of usage
@@ -166,12 +165,25 @@ As such, training is necessary in case, decision-makers decide to employ Python 
 Python, as well as most of its ecosystem, are free for commercial use.
 The cost of using Python as a data visualization tool lies in the salary of Python programmers.
 As of 2020, the average Python developer annual salary in the US is $120,365.
-This can be perceived as high compared to the salary of other analysts.
+This can be perceived as high compared to the salary of analysts without Python programing skills.
 
+** 3.2 Power BI Desktop
 
-** 3.2 Microsoft's PowerBI
+Power BI Desktop is a cloud-based business analytics serviced for interactive visualizations and business intelligence capabilities.
+Power BI Desktop offers cloud-based services called "PowerBI Services" as well as a desktop tool known as "PowerBI Desktop".
+Its primary features included tools that aid users in data preparation, data discovery, data visualization, and interactive dashboard.
 
-TBA
+*** 3.1.1 Importing dataset
+
+*** 3.1.2 Data preparation
+
+*** 3.1.3 Visualization
+
+*** 3.1.4 Performance
+
+*** 3.1.5 Ease of usage
+
+*** 3.1.6 Pricing
 
 ** 3.3 Tableau
 
